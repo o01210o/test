@@ -1,0 +1,26 @@
+{
+   "type": "pages",
+   "headline": "Chaînes",
+   "template": {
+      "layout": "0,0,3,3",
+      "color": "msx-glass",
+      "imageFiller": "fit"
+   },
+   "items": [
+      {
+         "title": "ICI RDI",
+         "image": "https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/rdi.png",
+         "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/rdi.m3u"
+      },
+      {
+         "title": "LCN",
+         "image": "https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/lcn.png",
+         "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/lcn.m3u"
+      },
+      {
+         "title": "TVA",
+         "image": "https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/tva.png",
+         "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/tva.m3u"
+      }
+   ]
+}
