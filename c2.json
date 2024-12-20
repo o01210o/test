@@ -1,0 +1,29 @@
+{
+   "type": "list",
+   "headline": "{dic:label:playlist|Chaînes}",
+   "template": {
+      "type": "control",
+      "layout": "0,0,4,1",
+      "imageFiller": "fit"
+   },
+   "items": [
+      {
+         "label": "ICI RDI",
+         "playerLabel": "ICI RDI",
+         "image": "https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/rdi.png",
+         "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/rdi.m3u"
+      },
+      {
+         "label": "LCN",
+         "playerLabel": "LCN",
+         "image": "https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/lcn.png",
+         "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/lcn.m3u"
+      },
+      {
+         "label": "TVA",
+         "playerLabel": "TVA",
+         "image": "https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/tva.png",
+         "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/tva.m3u"
+      }
+   ]
+}
