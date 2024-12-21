@@ -1,20 +1,29 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/rdi.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
 #EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/lcn.png",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/qc/tva.png",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/france24.png",FRANCE 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
 #EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/lci.png",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/france24.png",France 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/tf1.png",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/tv5.png",TV5Monde Info
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/tv5.png",TV5 MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/euronews.png",Euronews Fr
+
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/euronews.png",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BFMTV.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/o01210o/test/refs/heads/master/fr/bfm.png",BFM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
