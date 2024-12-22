@@ -1,5 +1,5 @@
 {    
-    "name": "Chaînes QC",
+    "name": "Chaînes",
     "version": "1.0.0",
-    "parameter": "menu:https://raw.githubusercontent.com/o01210o/test/refs/heads/master/c2.json"
+    "parameter": "content:https://raw.githubusercontent.com/o01210o/test/refs/heads/master/c2.json"
 }
